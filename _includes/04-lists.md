@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+My favorite things are: 
+- my dogs
+  - Miso
+  - Nori
+- plants
+  - trees
+  - garden
